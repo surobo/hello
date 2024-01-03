@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: gainsboro;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color:mediumpurple;
+    text-align: center;
+}
+
+table {
+    border: 2px solid mediumpurple;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: plum;
+  }
+
+td {
+    border-top: 1px solid mediumpurple;
+    background-color: aquamarine;
+}
+
+.code {
+    font-family: monospace;
+    background-color: goldenrod;
+}
